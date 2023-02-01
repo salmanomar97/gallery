@@ -7,7 +7,7 @@ class Config {
     this.data = config;
     this.maxHeight = opts.maxHeight || 400;
     this.spacing = opts.spacing || 10;
-    this.shuffle = opts.shuffle || false;
+    this.shuffle = opts.shuffle || true;
     this.columns = opts.columns || 3;
   };
 
