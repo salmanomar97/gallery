@@ -61,7 +61,7 @@ h3 {
 .links__icon,
 .links__icon:visited,
 .links__icon:link {
-  color: #ccc;
+  color: rgb(211, 80, 80);
   text-decoration: none;
   font-size: 14px;
   margin-right: 8px;
