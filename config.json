@@ -1,14 +1,6 @@
 {
   "Automotive Photography": [
     {
-      "width": 3763,
-      "height": 3763,
-      "path": "./photos/Automotive Photography/DSC00502-2.jpg",
-      "compressed_path": "./photos/Automotive Photography/DSC00502-2.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Automotive Photography/DSC00502-2.placeholder.jpg"
-    },
-    {
       "width": 6000,
       "height": 4000,
       "path": "./photos/Automotive Photography/DSC00535.jpg",
@@ -18,7 +10,7 @@
     },
     {
       "width": 4000,
-      "height": 6000,
+      "height": 4602,
       "path": "./photos/Automotive Photography/DSC00710.jpg",
       "compressed_path": "./photos/Automotive Photography/DSC00710.min.jpg",
       "compressed": false,
@@ -26,7 +18,7 @@
     },
     {
       "width": 3532,
-      "height": 5298,
+      "height": 4066,
       "path": "./photos/Automotive Photography/DSC00727.jpg",
       "compressed_path": "./photos/Automotive Photography/DSC00727.min.jpg",
       "compressed": false,
@@ -39,6 +31,22 @@
       "compressed_path": "./photos/Automotive Photography/DSC00786.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Automotive Photography/DSC00786.placeholder.jpg"
+    },
+    {
+      "width": 5612,
+      "height": 3741,
+      "path": "./photos/Automotive Photography/DSC00984.jpg",
+      "compressed_path": "./photos/Automotive Photography/DSC00984.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Automotive Photography/DSC00984.placeholder.jpg"
+    },
+    {
+      "width": 5952,
+      "height": 3968,
+      "path": "./photos/Automotive Photography/DSC01010.jpg",
+      "compressed_path": "./photos/Automotive Photography/DSC01010.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Automotive Photography/DSC01010.placeholder.jpg"
     },
     {
       "width": 5589,
@@ -107,6 +115,14 @@
     {
       "width": 6000,
       "height": 4000,
+      "path": "./photos/Automotive Photography/DSC01834.jpg",
+      "compressed_path": "./photos/Automotive Photography/DSC01834.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Automotive Photography/DSC01834.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
       "path": "./photos/Automotive Photography/DSC01910.jpg",
       "compressed_path": "./photos/Automotive Photography/DSC01910.min.jpg",
       "compressed": false,
@@ -146,7 +162,7 @@
     },
     {
       "width": 3031,
-      "height": 3789,
+      "height": 3242,
       "path": "./photos/Automotive Photography/DSC02286.jpg",
       "compressed_path": "./photos/Automotive Photography/DSC02286.min.jpg",
       "compressed": false,
@@ -218,6 +234,46 @@
     }
   ],
   "Portraits": [
+    {
+      "width": 4000,
+      "height": 4662,
+      "path": "./photos/Portraits/DSC00314.jpg",
+      "compressed_path": "./photos/Portraits/DSC00314.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC00314.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 5180,
+      "path": "./photos/Portraits/DSC00367.jpg",
+      "compressed_path": "./photos/Portraits/DSC00367.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC00367.placeholder.jpg"
+    },
+    {
+      "width": 4000,
+      "height": 5102,
+      "path": "./photos/Portraits/DSC00696.jpg",
+      "compressed_path": "./photos/Portraits/DSC00696.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC00696.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Portraits/DSC00783.jpg",
+      "compressed_path": "./photos/Portraits/DSC00783.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC00783.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
+      "path": "./photos/Portraits/DSC00865.jpg",
+      "compressed_path": "./photos/Portraits/DSC00865.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC00865.placeholder.jpg"
+    },
     {
       "width": 4000,
       "height": 6000,
