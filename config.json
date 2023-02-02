@@ -203,14 +203,6 @@
     {
       "width": 4000,
       "height": 5000,
-      "path": "./photos/Automotive Photography/E.jpg",
-      "compressed_path": "./photos/Automotive Photography/E.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Automotive Photography/E.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 5000,
       "path": "./photos/Automotive Photography/E1.jpg",
       "compressed_path": "./photos/Automotive Photography/E1.min.jpg",
       "compressed": false,
