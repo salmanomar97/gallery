@@ -347,14 +347,6 @@
       "placeholder_path": "./photos/Portraits/DSC02518.placeholder.jpg"
     },
     {
-      "width": 4000,
-      "height": 3200,
-      "path": "./photos/Portraits/DSC03958.jpg",
-      "compressed_path": "./photos/Portraits/DSC03958.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Portraits/DSC03958.placeholder.jpg"
-    },
-    {
       "width": 3479,
       "height": 2676,
       "path": "./photos/Portraits/DSC04030.jpg",
