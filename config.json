@@ -83,6 +83,14 @@
     {
       "width": 6000,
       "height": 4000,
+      "path": "./photos/Automotive Photography/DSC01721.jpg",
+      "compressed_path": "./photos/Automotive Photography/DSC01721.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Automotive Photography/DSC01721.placeholder.jpg"
+    },
+    {
+      "width": 6000,
+      "height": 4000,
       "path": "./photos/Automotive Photography/DSC01724.jpg",
       "compressed_path": "./photos/Automotive Photography/DSC01724.min.jpg",
       "compressed": false,
@@ -175,14 +183,6 @@
       "compressed_path": "./photos/Automotive Photography/DSC02357.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Automotive Photography/DSC02357.placeholder.jpg"
-    },
-    {
-      "width": 4000,
-      "height": 5000,
-      "path": "./photos/Automotive Photography/DSC02424.jpg",
-      "compressed_path": "./photos/Automotive Photography/DSC02424.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Automotive Photography/DSC02424.placeholder.jpg"
     },
     {
       "width": 6000,
@@ -281,6 +281,14 @@
       "compressed_path": "./photos/Portraits/DSC00696.min.jpg",
       "compressed": false,
       "placeholder_path": "./photos/Portraits/DSC00696.placeholder.jpg"
+    },
+    {
+      "width": 3142,
+      "height": 3928,
+      "path": "./photos/Portraits/DSC00726.jpg",
+      "compressed_path": "./photos/Portraits/DSC00726.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Portraits/DSC00726.placeholder.jpg"
     },
     {
       "width": 6000,
