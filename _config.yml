@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: SMR Visuals
+title: SMR Vsuals
 
 # The title on the web page
-full_name: SMR Visuals Portfolio
+full_name: SMR Vsuals Portfolio
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -45,7 +45,7 @@ description: Photography Portfolio
 author: SMR197
 
 # Your email if you want it to be linked on the contact page
-author_email: smrvusals@gmail.com
+author_email: smrvsuals@gmail.com
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
